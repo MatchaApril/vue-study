@@ -1,5 +1,5 @@
 # vue-study
 
 > this is the first time i used the vue and git 
-> vue2 vue3
+> vue2 vueeeeeee3
 > javaScript
